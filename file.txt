@@ -1,1 +1,4 @@
+Typical phrases for dates:
 hello world
+how are you?
+what are you doing now?
